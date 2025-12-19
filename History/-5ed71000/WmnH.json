@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Tokyo Night",
+    "haskell.manageHLS": "GHCup"
+}

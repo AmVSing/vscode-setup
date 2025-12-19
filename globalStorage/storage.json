@@ -1,0 +1,93 @@
+{
+    "telemetry.machineId": "f05762c75c117f4dd7c4b666cf4efe5c2bc3b18e832006af9dcd99d812fb491a",
+    "telemetry.sqmId": "{9DAA2E42-3EC9-402F-8A03-37528C408E27}",
+    "telemetry.devDeviceId": "aa39a521-dba8-4e9a-b32f-467ce5105b94",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///c%3A/Users/ksing/Documents/Final%20revision/Haskell/messingaround"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///c%3A/Users/ksing/Documents/40009_exercises/haskell/haskell%20practice/haskellcalculus_as9625": "__default__profile__",
+            "file:///c%3A/Users/ksing/Documents/40009_exercises/haskell/haskell%20practice": "__default__profile__",
+            "file:///c%3A/Users/ksing/Documents/Final%20revision/Haskell/Practice_Test_Radix_Trees": "__default__profile__",
+            "file:///c%3A/Users/ksing/Documents/Final%20revision/Haskell/messingaround": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1a1b26",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#787c99",
+            "background": "#1a1b26",
+            "editorBackground": "#1a1b26",
+            "titleBarBackground": "#16161e",
+            "titleBarBorder": "#101014",
+            "activityBarBackground": "#16161e",
+            "activityBarBorder": "#16161e",
+            "sideBarBackground": "#16161e",
+            "sideBarBorder": "#101014",
+            "statusBarBackground": "#16161e",
+            "statusBarBorder": "#101014",
+            "statusBarNoFolderBackground": "#16161e",
+            "windowBorder": "#0d0f17"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/ksing/Documents/Final%20revision/Haskell/messingaround",
+            "backupPath": "C:\\Users\\ksing\\AppData\\Roaming\\Code\\Backups\\721cfeab4d2d2642a683182ec474fe64",
+            "uiState": {
+                "mode": 0,
+                "x": 120,
+                "y": 50,
+                "width": 1200,
+                "height": 800
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "fc705a4a993be3091053c41b07df04e4": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "ac5a3a1d6034c8f064d31c982d4ae9aa": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "4d2839406f2042bb85273350c0ac9f91": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": true
+                },
+                "e4f67005d44198a92ba2cd225e3675fc": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

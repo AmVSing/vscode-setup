@@ -1,0 +1,14 @@
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Tokyo Night",
+    "haskell.manageHLS": "GHCup",
+    "vim.handleKeys": {
+        "<C-c>": false,
+        "<C-v>": false,
+        "<C-a>": false,
+        "<C-z>": false,
+        "<C-x>": false
+    }
+}
